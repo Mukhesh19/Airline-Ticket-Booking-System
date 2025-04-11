@@ -60,7 +60,7 @@ the pay button consider the transaction done and mark the seat sold.
 
 #### Login Page and Book Flight
 <p align="middle">
-   <img src="../master/Images/login.png" width="400"/>
+   <img src="Images/login.png" width="400"/>
    <img src="../master/Images/book.png" width="400"/>
 </p>
 
