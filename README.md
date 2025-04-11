@@ -1,4 +1,4 @@
-# Flight Booking System for Airlines (Java Web Application) ✈️ 
+# Airline Ticket Booking System (Java Web Application) ✈️ 
 <p align="left">
   <a href="https://www.linkedin.com/in/mukheshravi/"><img title="Follow Haris Muneer on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Mukhesh19"><img title="Follow Haris Muneer on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
