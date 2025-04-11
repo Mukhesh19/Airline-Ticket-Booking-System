@@ -107,9 +107,9 @@ Both projects will be loaded. Now first run the Turkish Airlines project, then t
 
 
 ## Author
-You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/harismuneer)
+You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/mukheshravi)
 
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/Mukhesh19)
 
 If you liked the repo then kindly support it by giving it a star ⭐ and share in your circles so more people can benefit from the effort.
 
@@ -129,7 +129,7 @@ With modern AI tools like ChatGPT, solving challenges and contributing effective
 ## License
 [![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
 
-Copyright (c) 2018-present, harismuneer                                                        
+Copyright (c) 2018-present, Mukhesh19                                                        
 
 <!-- PROFILE_INTRO_START -->
 
@@ -140,14 +140,14 @@ Hey there, I'm <a href="https://www.linkedin.com/in/mukheshravi/">Mukhesh Ravi</
 </h1>
 
 
-<a href="https://github.com/Mukhesh19"><img src="https://img.shields.io/github/stars/harismuneer" alt="Total Github Stars"></a>
+<a href="https://github.com/Mukhesh19"><img src="https://img.shields.io/github/stars/Mukhesh19" alt="Total Github Stars"></a>
 <a href="https://github.com/Mukhesh19?tab=followers"><img src="https://img.shields.io/github/followers/Mukhesh19" alt="Total Github Followers"></a>
 
 <hr>
 
-- <b>🛠️ Product Builder:</b> Agile Product Manager with 5+ years of hands-on experience delivering SaaS solutions across sales, recruiting, AI, social media, and public sector domains. Background in Computer Science, with a proven track record of scaling products from inception to $XXM+ ARR, launching 3 top-ranking tools on Product Hunt, and developing solutions adopted by 250+ B2B clients in 40+ countries.  
+- <b>🛠️ Product Builder:</b> Agile Product Manager with 5+ years of hands-on experience delivering SaaS solutions across sales, recruiting, AI, social media, and public sector domains. Background in Data Analytics, with a proven track record of scaling products from inception to $XXM+ ARR, launching 3 top-ranking tools on Product Hunt, and developing solutions adopted by 250+ B2B clients in 40+ countries.  
  
-- <b>🌟 Open Source Advocate:</b> Passionate about making technology accessible, I’ve developed and open-sourced several software projects for web, mobile, desktop, and AI on my <a href="https://github.com/harismuneer">GitHub profile</a>. These projects have been used by thousands of learners worldwide to enhance their skills and knowledge.
+- <b>🌟 Open Source Advocate:</b> Passionate about making technology accessible, I’ve developed and open-sourced several software projects for web, mobile, desktop, and AI on my <a href="https://github.com/Mukhesh19">GitHub profile</a>. These projects have been used by thousands of learners worldwide to enhance their skills and knowledge.
 
 - <b>📫 How to Reach Me:</b> To learn more about my skills and work, visit my <a href="https://www.linkedin.com/in/mukheshravi/">LinkedIn profile</a>. For collaboration or inquiries, feel free to reach out via <a href="mailto:mukheshravi195@gmail.com">email</a>.
 
